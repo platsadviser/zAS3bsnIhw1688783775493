@@ -25,7 +25,7 @@ namespace AppLovinMax.Scripts.Editor
     /// </summary>
     public class MaxPostProcessBuildAndroid : IPostGenerateGradleAndroidProject
     {
-        private static string APPLOVIN_SDK_KEY = "KkogXiRi8yVcf7gMTqQPLAp7lCJZE1p_a59ieHT8JP-c0nDK7dmSUw_Ne3vtzl8TU4ipw-vg_aIdT2UlLl9kcP";
+        private static string APPLOVIN_SDK_KEY = "Er41t2y-rKCq_5gWmOA5Rxnu4s9qOvpOKHe357L3EPG1TqvoK8LNQgk-2VN8k3vhdZqWsopZQQgD5iWVM7zu3n";
 #if UNITY_2019_3_OR_NEWER
         private const string PropertyAndroidX = "android.useAndroidX";
         private const string PropertyJetifier = "android.enableJetifier";
